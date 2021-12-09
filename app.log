@@ -1,0 +1,33 @@
+2021-12-04 22:47:23,449  INFO [main] TestBase:30 - ********initializing********
+2021-12-04 22:47:23,452  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-04 22:47:29,170  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-04 22:47:33,542  INFO [main] TestBase:30 - ********initializing********
+2021-12-04 22:47:33,542  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:16:12,877  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:16:12,879  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:16:19,369  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-05 19:16:23,343  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:16:23,344  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:33:36,382  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:33:36,385  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:33:41,312  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-05 19:33:45,829  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:33:45,830  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:36:26,056  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:36:26,058  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:36:31,005  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-05 19:45:21,101  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:45:21,104  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:45:28,687  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-05 19:45:35,425  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:45:35,425  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:46:52,408  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:46:52,410  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-05 19:47:00,594  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-05 19:47:07,324  INFO [main] TestBase:30 - ********initializing********
+2021-12-05 19:47:07,325  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-06 14:58:33,257  INFO [main] TestBase:30 - ********initializing********
+2021-12-06 14:58:33,264  INFO [main] TestBase:31 - initailizing the properties of file
+2021-12-06 14:58:38,983  INFO [main] LoginPageTestCases:23 - verifying the user
+2021-12-06 14:58:43,078  INFO [main] TestBase:30 - ********initializing********
+2021-12-06 14:58:43,079  INFO [main] TestBase:31 - initailizing the properties of file
